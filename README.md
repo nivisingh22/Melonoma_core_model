@@ -1,1 +1,1 @@
-# melonoma-model
+# melonoma_core_model
