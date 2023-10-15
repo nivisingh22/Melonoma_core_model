@@ -1,0 +1,114 @@
+!PPP2R1B=AKT1        	1 !PPP2R1B = 1 AKT1 	| 	# 	0             1             0         499.5        554.36             1             1             1 
+!PPP2R2A=AKT1        	1 !PPP2R2A = 1 AKT1 	| 	# 	0             1             0         513.5        554.36             1             1             1 
+CTNNB1=AXIN2         	1 E2F1 + 1 CTNNB1 = 1 AXIN2 	| 	# 	0             1             0         669.5      569.7056             1             1             1 
+E2F1=AXIN2           	1 E2F1 = 1 AXIN2 	| 	# 	0             1             0         683.5      569.7056             1             1             1 
+E2F3=AXIN2           	1 E2F3 + 1 E2F1 = 1 AXIN2 	| 	# 	0             1             0         697.5      569.7056             1             1             1 
+!TP53=BCL2           	1 !TP53 = 1 BCL2 	| 	# 	0             1             0       66.8333      274.2655             1             1             1 
+E2F1=BCL2            	1 E2F1 = 1 BCL2 	| 	# 	0    1    0   81  274    1    1    1 
+E2F3=BCL2            	1 E2F3 = 1 BCL2 	| 	# 	0    1    0   95  274    1    1    1 
+AR=CCNA2             	1 AR = 1 CCNA2 	| 	# 	0    1    0  308  140    1    1    1 
+E2F1=CCNA2           	1 E2F1 = 1 CCNA2 	| 	# 	0    1    0  322  140    1    1    1 
+E2F2=CCNA2           	1 E2F2 = 1 CCNA2 	| 	# 	0    1    0  336  140    1    1    1 
+E2F3=CCNA2           	1 E2F3 = 1 CCNA2 	| 	# 	0    1    0  350  140    1    1    1 
+!AR=CCNB1            	1 !AR = 1 CCNB1 	| 	# 	0    1    0   64  159    1    1    1 
+CCNB1=CCNB1          	 =  	| 	# 	0    1    0   78  159    1    1    1 
+CDK1=CCNB1           	1 CDK1 = 1 CCNB1 	| 	# 	0    1    0   92  159    1    1    1 
+E2F1=CCNB1           	1 E2F1 = 1 CCNB1 	| 	# 	0    1    0  106  159    1    1    1 
+E2F2=CCNB1           	1 E2F2 = 1 CCNB1 	| 	# 	0    1    0   64  199    1    1    1 
+E2F3=CCNB1           	1 E2F3 = 1 CCNB1 	| 	# 	0    1    0   78  199    1    1    1 
+E2F1=CCNE2           	1 E2F1 = 1 CCNE2 	| 	# 	0    1    0  655  238    1    1    1 
+E2F2=CCNE2           	1 E2F2 = 1 CCNE2 	| 	# 	0    1    0  669  238    1    1    1 
+E2F3=CCNE2           	1 E2F3 = 1 CCNE2 	| 	# 	0    1    0  683  238    1    1    1 
+CCNB1=CDC20          	1 CCNB1 = 1 CDC20 	| 	# 	0             1             0      186.8333      153.5553             1             1             1 
+CDK1=CDC20           	1 CDK1 = 1 CDC20 	| 	# 	0             1             0      200.1667      152.8884             1             1             1 
+!hsa-miR-25-3p=CDH1  	1 !hsa-miR-25-3p = 1 CDH1 	| 	# 	0             1             0         353.5      758.4404             1             1             1 
+!MDM2=CDH1           	1 !MDM2 = 1 CDH1 	| 	# 	0             1             0      366.8333      758.4404             1             1             1 
+AR=CDK1              	1 AR = 1 CDK1 	| 	# 	0    1    0  450  139    1    1    1 
+CCNA2=CDK1           	1 CCNA2 = 1 CDK1 	| 	# 	0    1    0  464  139    1    1    1 
+CCNB1=CDK1           	1 CCNB1 = 1 CDK1 	| 	# 	0    1    0  478  139    1    1    1 
+CDK2=CDK1            	1 CDK2 = 1 CDK1 	| 	# 	0    1    0  492  139    1    1    1 
+E2F1=CDK1            	1 E2F1 = 1 CDK1 	| 	# 	0    1    0  450  179    1    1    1 
+E2F2=CDK1            	1 E2F2 = 1 CDK1 	| 	# 	0    1    0  464  179    1    1    1 
+E2F3=CDK1            	1 E2F3 = 1 CDK1 	| 	# 	0    1    0  478  179    1    1    1 
+CCNA2=CDK2           	1 CCNA2 = 1 CDK2 	| 	# 	0    1    0  521  234    1    1    1 
+CCNB1=CDK2           	1 CCNB1 = 1 CDK2 	| 	# 	0             1             0         533.5      233.5842             1             1             1 
+CCNE2=CDK2           	1 CCNE2 = 1 CDK2 	| 	# 	0             1             0         547.5      235.5849             1             1             1 
+!TP53=CDKN2A         	1 !TP53 = 1 CDKN2A 	| 	# 	0    1    0  226  231    1    1    1 
+!ZEB1=CDKN2A         	1 !ZEB1 = 1 CDKN2A 	| 	# 	0    1    0  240  231    1    1    1 
+E2F1=CDKN2A          	1 E2F1 = 1 CDKN2A 	| 	# 	0    1    0  254  231    1    1    1 
+!AXIN2=CTNNB1        	1 !AXIN2 = 1 CTNNB1 	| 	# 	0             1             0      580.8333      655.7366             1             1             1 
+!CDH1=CTNNB1         	1 !CDH1 = 1 CTNNB1 	| 	# 	0             1             0      594.8333      655.7366             1             1             1 
+!CDKN2A=E2F1         	1 !CDKN2A = 1 E2F1 	| 	# 	0    1    0  314  338    1    1    1 
+!hsa-miR-205-5p=E2F1 	1 !hsa-miR-205-5p = 1 E2F1 	| 	# 	0    1    0  328  338    1    1    1 
+!PPP2R1A=E2F1        	1 !PPP2R1A = 1 E2F1 	| 	# 	0    1    0  342  338    1    1    1 
+!PPP2R2A=E2F1        	1 !PPP2R2A = 1 E2F1 	| 	# 	0    1    0  356  338    1    1    1 
+!PPP2R2D=E2F1        	1 !PPP2R2D = 1 E2F1 	| 	# 	0    1    0  370  338    1    1    1 
+!THRA=E2F1           	1 !THRA = 1 E2F1 	| 	# 	0    1    0  384  338    1    1    1 
+!THRB=E2F1           	1 !THRB = 1 E2F1 	| 	# 	0    1    0  314  378    1    1    1 
+CDK2=E2F1            	1 CDK2 = 1 E2F1 	| 	# 	0    1    0  328  378    1    1    1 
+E2F2=E2F1            	1 E2F2 = 1 E2F1 	| 	# 	0    1    0  342  378    1    1    1 
+E2F3=E2F1            	1 E2F3 = 1 E2F1 	| 	# 	0    1    0  356  378    1    1    1 
+FLT4=E2F1            	1 FLT4 = 1 E2F1 	| 	# 	0    1    0  370  378    1    1    1 
+LEF1=E2F1            	1 LEF1 = 1 E2F1 	| 	# 	0    1    0  384  378    1    1    1 
+MDM2=E2F1            	1 MDM2 = 1 E2F1 	| 	# 	0    1    0  314  393    1    1    1 
+MYC=E2F1             	1 MYC = 1 E2F1 	| 	# 	0    1    0  328  393    1    1    1 
+NR2F2=E2F1           	1 NR2F2 = 1 E2F1 	| 	# 	0    1    0  342  393    1    1    1 
+NR4A1=E2F1           	1 NR4A1 = 1 E2F1 	| 	# 	0    1    0  356  393    1    1    1 
+SP1=E2F1             	1 SP1 = 1 E2F1 	| 	# 	0    1    0  370  393    1    1    1 
+!RB1=E2F2            	1 !RB1 = 1 E2F2 	| 	# 	0    1    0  165  334    1    1    1 
+E2F1=E2F2            	1 E2F1 = 1 E2F2 	| 	# 	0    1    0  179  334    1    1    1 
+E2F3=E2F2            	1 E2F3 = 1 E2F2 	| 	# 	0    1    0  193  334    1    1    1 
+!CDH1=EMT            	1 !CDH1 = 1 EMT 	| 	# 	0             1             0      412.1667      882.4852             1             1             1 
+ZEB1=EMT             	1 ZEB1 = 1 EMT 	| 	# 	0             1             0         425.5      882.4852             1             1             1 
+!MDM2=FOXO3          	1 !MDM2 = 1 FOXO3 	| 	# 	0             1             0      368.8333      647.0668             1             1             1 
+!SIRT1=FOXO3         	1 !SIRT1 = 1 FOXO3 	| 	# 	0    1    0  382  647    1    1    1 
+AKT1=FOXO3           	1 !MDM2 + 1 AKT1 = 1 FOXO3 	| 	# 	0    1    0  396  647    1    1    1 
+TP53=FOXO3           	1 TP53 = 1 FOXO3 	| 	# 	0    1    0  410  647    1    1    1 
+E2F1=hsa-miR-25-3p   	1 E2F1 = 1 hsa-miR-25-3p 	| 	# 	0             1             0      162.8333      641.0647             1             1             1 
+E2F1=KIAA1524        	1 E2F1 = 1 KIAA1524 	| 	# 	0             1             0         565.5      340.9563             1             1             1 
+E2F3=KIAA1524        	1 E2F3 + 1 E2F1 = 1 KIAA1524 	| 	# 	0             1             0         579.5      342.2901             1             1             1 
+CTNNB1=LEF1          	1 CTNNB1 = 1 LEF1 	| 	# 	0             1             0      746.8333      428.3212             1             1             1 
+!CDKN2A=MDM2         	1 !CDKN2A = 1 MDM2 	| 	# 	0             1             0         239.5      449.6622             1             1             1 
+!hsa-miR-25-3p=MDM2  	1 !hsa-miR-25-3p = 1 MDM2 	| 	# 	0             1             0      252.1667      448.9953             1             1             1 
+MDM4=MDM2            	1 MDM4 = 1 MDM2 	| 	# 	0             1             0      266.1667      449.6622             1             1             1 
+!E2F1=MDM4           	1 !E2F1 = 1 MDM4 	| 	# 	0             1             0       62.1667      392.3082             1             1             1 
+!MDM2=MDM4           	1 !MDM2 = 1 MDM4 	| 	# 	0             1             0       74.8333      392.9751             1             1             1 
+!MDM2=MYC            	1 !MDM2 = 1 MYC 	| 	# 	0    1    0  617  458    1    1    1 
+!PPP2R1A=MYC         	1 !PPP2R1A = 1 MYC 	| 	# 	0    1    0  631  458    1    1    1 
+!PPP2R1B=MYC         	1 !PPP2R1B = 1 MYC 	| 	# 	0    1    0  645  458    1    1    1 
+!PPP2R2D=MYC         	1 !PPP2R2D = 1 MYC 	| 	# 	0    1    0  659  458    1    1    1 
+CTNNB1=MYC           	1 CTNNB1 = 1 MYC 	| 	# 	0    1    0  673  458    1    1    1 
+E2F1=MYC             	1 E2F1 = 1 MYC 	| 	# 	0    1    0  617  498    1    1    1 
+E2F3=MYC             	1 E2F3 = 1 MYC 	| 	# 	0    1    0  631  498    1    1    1 
+!KIAA1524=PPP2R1A    	1 !KIAA1524 = 1 PPP2R1A 	| 	# 	0             1             0      770.1667      278.9339             1             1             1 
+!KIAA1524=PPP2R1B    	1 !KIAA1524 = 1 PPP2R1B 	| 	# 	0    1    0  743  150    1    1    1 
+FGFR1=PPP2R1B        	1 FGFR1 = 1 PPP2R1B 	| 	# 	0    1    0  757  150    1    1    1 
+TGFBR1=PPP2R1B       	1 TGFBR1 = 1 PPP2R1B 	| 	# 	0    1    0  771  150    1    1    1 
+TGFBR2=PPP2R1B       	1 TGFBR2 = 1 PPP2R1B 	| 	# 	0    1    0  785  150    1    1    1 
+FGFR1=PPP2R2A        	1 FGFR1 = 1 PPP2R2A 	| 	# 	0             1             0         595.5      141.5509             1             1             1 
+TGFBR1=PPP2R2A       	1 TGFBR1 = 1 PPP2R2A 	| 	# 	0             1             0      610.8333      141.5509             1             1             1 
+!KIAA1524=PPP2R2D    	1 !KIAA1524 = 1 PPP2R2D 	| 	# 	0             1             0      688.8333      356.9621             1             1             1 
+E2F1=RB1             	1 E2F1 = 1 RB1 	| 	# 	0    1    0  378  238    1    1    1 
+PPP2R1B=RB1          	1 PPP2R1B = 1 RB1 	| 	# 	0    1    0  392  238    1    1    1 
+PPP2R2A=RB1          	1 PPP2R2A = 1 RB1 	| 	# 	0    1    0  406  238    1    1    1 
+RB1=RB1              	 =  	| 	# 	0    1    0  420  238    1    1    1 
+E2F1=SIRT1           	1 E2F1 = 1 SIRT1 	| 	# 	0             1             0      234.8333       581.043             1             1             1 
+SP1=SIRT1            	1 SP1 = 1 SIRT1 	| 	# 	0             1             0         247.5      581.7099             1             1             1 
+CTNNB1=SNAI1         	1 CTNNB1 = 1 SNAI1 	| 	# 	0             1             0      560.8333      758.4404             1             1             1 
+E2F1=SP1             	1 E2F1 = 1 SP1 	| 	# 	0             1             0      452.1667      446.9946             1             1             1 
+!BCL2=TP53           	1 !BCL2 = 1 TP53 	| 	# 	0    1    0   92  489    1    1    1 
+!hsa-miR-25-3p=TP53  	1 !hsa-miR-25-3p = 1 TP53 	| 	# 	0    1    0  106  489    1    1    1 
+!MDM2=TP53           	1 !MDM2 = 1 TP53 	| 	# 	0    1    0  120  489    1    1    1 
+!MDM4=TP53           	1 !MDM4 = 1 TP53 	| 	# 	0    1    0  134  489    1    1    1 
+!SIRT1=TP53          	1 !SIRT1 = 1 TP53 	| 	# 	0    1    0  148  489    1    1    1 
+FOXO3=TP53           	1 !BCL2 + 1 !MDM2 + 1 FOXO3 = 1 TP53 	| 	# 	0    1    0  162  489    1    1    1 
+!CDK1=VIM            	1 !CDK1 = 1 VIM 	| 	# 	0             1             0      452.8333      756.4397             1             1             1 
+!hsa-miR-205-5p=ZEB1 	1 !hsa-miR-205-5p = 1 ZEB1 	| 	# 	0             1             0      264.8333      760.4411             1             1             1 
+E2F1=ZEB1            	1 E2F1 = 1 ZEB1 	| 	# 	0             1             0      280.1667       761.108             1             1             1 
+VIM=EMT              	1 VIM = 1 EMT 	| 	# 	0             1             0         439.5      882.4852             1             1             1 
+SNAI1=EMT            	1 SNAI1 = 1 EMT 	| 	# 	0             1             0      456.1667      883.1521             1             1             1 
+E2F2=FOXO3           	1 E2F2 + 1 !MDM2 = 1 FOXO3 	| 	# 	0             1             0      414.1667      665.0733             1             1             1 
+TP53=hsa-miR-205-5p  	1 TP53 = 1 hsa-miR-205-5p 	| 	# 	0             1             0      334.8333      506.3493             1             1             1 
+TGFBR2=PPP2R1A       	1 TGFBR2 + 1 !KIAA1524 = 1 PPP2R1A 	| 	# 	0             1             0      786.1667      280.2677             1             1             1 
+TGFBR2=PPP2R2D       	1 TGFBR2 + 1 !KIAA1524 = 1 PPP2R2D 	| 	# 	0             1             0      704.1667      358.2959             1             1             1 
+AKT1=VIM             	1 AKT1 = 1 VIM 	| 	# 	0             1             0         465.5      758.4404             1             1             1 
